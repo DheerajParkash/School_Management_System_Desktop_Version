@@ -35,8 +35,8 @@ term wise”
 
 Team members:
 
-Name:	Dheeraj Parkash 		 Email:dheerajparkash.bcsf18@iba-suk.edu.pk
+Name:	Dheeraj Parkash 		                   Email:dheerajparkash.bcsf18@iba-suk.edu.pk
 
 Name: Adarsh Chimnani                     	 Email:AdarshUmesh.bcsf18@iba-suk.edu.pk
 
-Name: Laksh Kumar  			 Email: LakshKumar.bcsf18@iba-suk.edu.pk  
+Name: Laksh Kumar  			                     Email: LakshKumar.bcsf18@iba-suk.edu.pk  
